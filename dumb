@@ -1,0 +1,26 @@
+
+  // const [alert, setAlert] = useState(null);
+  // const showAlert = (message, type)=>{
+  //     setAlert({
+  //       msg: message,
+  //       type: type
+  //     })
+  //     setTimeout(() => {
+  //         setAlert(null);
+  //     }, 1500);
+  // }
+  // const cookies = new Cookies();
+  // useEffect(() => {
+  //   const body = document.getElementsByTagName("body");
+  //   (async function () {
+  //     const hasLogin = await cookies.get("isLogged");
+
+  //     if (hasLogin === "Admin") {
+  //       document.body.classList.add('Admin-Logged')
+  //       // body.classList.add("Logged");
+  //     }
+  //   })();
+  // }, []);
+
+
+  

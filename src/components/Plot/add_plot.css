@@ -1,0 +1,6 @@
+
+
+.add_plot .mapboxgl-map {
+    height: 50vh !important;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
